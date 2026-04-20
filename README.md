@@ -27,7 +27,7 @@
 <br>Adversarial Validation створив валідаційну вибірку, яка повністю складалась з облич і жодної монети:
 <img width="400" src="https://github.com/user-attachments/assets/9d3e29d5-73db-4c20-964d-34e67833ce97" />
 
-<br>Stratified Split зберіг майже ідеальні пропорції 80/20 і інші значення розподілились при цьому рівномірніше:
+<br>Stratified Split зберіг майже ідеальні пропорції 80/20 і інші значення розподілились при цьому рівномірніше:<br>
 <img width="400" src="https://github.com/user-attachments/assets/d66e1fc4-57c4-4385-91e2-cd6317a7ce61" />
 
 ## Classical Computer Vision
